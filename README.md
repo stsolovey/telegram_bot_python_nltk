@@ -1,6 +1,5 @@
 # telegram_bot_python_nltk
 
-Yandex cloud serverless functions.
 
 The telegram bot that returns the grammatical mask of a given sentence.
 
